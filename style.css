@@ -1,8 +1,7 @@
 .position{
 	position: relative;
-	left: 5px;
+	left: 0px;
 }
-
 .div1{
 	border: 3px blue solid;
 	background-color:#98F0E1;
@@ -26,4 +25,22 @@ img{
 }
 body{
 	background-color: #F0EADE;
+}
+div{
+	text-align: center
+}
+
+.sjatie{
+	width: 360px;
+	text-align: left;
+	margin-left: 45%;
+}
+
+.sjatieP{
+	width: 500px;
+	text-align: justify;
+	margin-left: 35%;
+}
+.sjatieP h2{
+	text-align: center
 }
